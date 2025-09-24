@@ -63,5 +63,5 @@ I am a passionate and dedicated Full-Stack Developer with strong expertise in Py
 ---
 
 ## 🔗 Get in Touch  
-- 📧 [majidabedi993@gmail.com](mailto:majidabedi993@gmail.com)  
+- 📧 [samyarabedi93@gmail.com](mailto:samyarabedi93@gmail.com)   
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/majidabedi93/)  
