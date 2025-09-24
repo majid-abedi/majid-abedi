@@ -2,7 +2,7 @@
 💻 Full-Stack Developer | Python & Django Specialist | Freelance Developer  
 🌍 Based in Turkey  
 💼 Currently working on freelance projects via Upwork  
-📫 Contact me: [abedi_93@yahoo.com](mailto:abedi_93@yahoo.com)  
+📫 Contact me: [samyarabedi93@gmail.com](mailto:samyarabedi93@gmail.com)  
 🌐 LinkedIn: [Majid Abedi](https://www.linkedin.com/in/majidabedi93/)  
 
 ---
